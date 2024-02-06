@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MathematicsConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "Area 5 10\r\n"
+    }
+  }
+}
